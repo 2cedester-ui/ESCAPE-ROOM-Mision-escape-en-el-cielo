@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260930201052DI8SCH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260930201052OZA2PM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.5</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“Misión: Rescate en el Cielo del Festival Internacional del Globo de León, México”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>El Festival Internacional del Globo de León, México</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lydwina Villarreal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El Festival Internacional del Globo (FIG) se celebra en la ciudad de León, Guanajuato, México. Nació en 2002 con 25 globos aerostáticos y actualmente reúne más de 200 globos procedentes de más de 20 países, siendo considerado uno de los eventos de aerostación más importantes del mundo. [vivefig.mx]</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1790963416378</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mulyevr2-7ufnu442s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mulyevr2-7ufnu442s</odePageId>
+      <odeBlockId>block-mum1fjks-5k8qjzs3m</odeBlockId>
+      <blockName>Portada</blockName>
+      <iconName>mi-emergency</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mulyevr2-7ufnu442s</odePageId>
+          <odeBlockId>block-mum1fjks-5k8qjzs3m</odeBlockId>
+          <odeIdeviceId>idevice-1790647740892-3gpp0jmum</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/logo-de-up.png" width="144" height="132" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;"><span style="font-size: 14pt;">MEVA. 712. Producción de narrativas digitales </span></h6>
+<h6 style="text-align: center;"><span style="font-size: 14pt;">Web 2.0 y opciones emergentes</span></h6>
+<h6 style="text-align: center;"><span style="font-size: 14pt;">Profesor: Alvin Blanco </span></h6>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/portad-5.jpg" width="900" height="1200" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: 18pt;"><strong>Escape Room;</strong> con el tema: <em>Festival Internacional del Globo de León, México.</em>: </span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Elaborado por</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Lydwina Villarreal</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790647740892-3gpp0jmum","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/logo-de-up.png\" width=\"144\" height=\"132\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<h6 style=\"text-align: center;\"><span style=\"font-size: 14pt;\">MEVA. 712. Producción de narrativas digitales </span></h6>\n<h6 style=\"text-align: center;\"><span style=\"font-size: 14pt;\">Web 2.0 y opciones emergentes</span></h6>\n<h6 style=\"text-align: center;\"><span style=\"font-size: 14pt;\">Profesor: Alvin Blanco </span></h6>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/portad-5.jpg\" width=\"900\" height=\"1200\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><span style=\"font-size: 18pt;\"><strong>Escape Room;</strong> con el tema: <em>Festival Internacional del Globo de León, México.</em>: </span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\">Elaborado por</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\">Lydwina Villarreal</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>14286fa0-5af1-4526-a853-99a03a1e2e46</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>14286fa0-5af1-4526-a853-99a03a1e2e46</odePageId>
+      <odeBlockId>block-muir6n8i-1sde5ygdv</odeBlockId>
+      <blockName>Escape Room</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>14286fa0-5af1-4526-a853-99a03a1e2e46</odePageId>
+          <odeBlockId>block-muir6n8i-1sde5ygdv</odeBlockId>
+          <odeIdeviceId>idevice-1790449131040-jyqdupfc1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 14pt;">El Escape Room educativo "Aventura en el Festival Internacional del Globo de León, México" ha sido diseñado en la plataforma eXeLearning como una estrategia didáctica innovadora que combina el aprendizaje activo, la resolución de problemas y el uso de recursos digitales interactivos. A través de una serie de desafíos, pistas y acertijos relacionados con uno de los eventos culturales y turísticos más importantes de México, los estudiantes tendrán la oportunidad de explorar aspectos geográficos, culturales, históricos y tecnológicos del festival mientras desarrollan habilidades de análisis, colaboración y pensamiento crítico.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">La incorporación de la herramienta eXeLearning permite estructurar contenidos dinámicos e interactivos que favorecen la participación activa del estudiante y promueven un aprendizaje significativo. Mediante esta metodología de gamificación, los participantes deberán superar diferentes retos para avanzar en la actividad, fortaleciendo sus competencias digitales y su capacidad para aplicar conocimientos en contextos reales y motivadores.</span><img src="{{context_path}}/content/resources/globos.png" width="990" height="742" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790449131040-jyqdupfc1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">El Escape Room educativo \"Aventura en el Festival Internacional del Globo de León, México\" ha sido diseñado en la plataforma eXeLearning como una estrategia didáctica innovadora que combina el aprendizaje activo, la resolución de problemas y el uso de recursos digitales interactivos. A través de una serie de desafíos, pistas y acertijos relacionados con uno de los eventos culturales y turísticos más importantes de México, los estudiantes tendrán la oportunidad de explorar aspectos geográficos, culturales, históricos y tecnológicos del festival mientras desarrollan habilidades de análisis, colaboración y pensamiento crítico.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">La incorporación de la herramienta eXeLearning permite estructurar contenidos dinámicos e interactivos que favorecen la participación activa del estudiante y promueven un aprendizaje significativo. Mediante esta metodología de gamificación, los participantes deberán superar diferentes retos para avanzar en la actividad, fortaleciendo sus competencias digitales y su capacidad para aplicar conocimientos en contextos reales y motivadores.</span><img src=\"{{context_path}}/content/resources/globos.png\" width=\"990\" height=\"742\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muirvg5j-qjh66fqj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Objetivos de Aprendizaje</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muirvg5j-qjh66fqj2</odePageId>
+      <odeBlockId>block-muirvof9-6rv0qmadu</odeBlockId>
+      <blockName>video</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muirvg5j-qjh66fqj2</odePageId>
+          <odeBlockId>block-muirvof9-6rv0qmadu</odeBlockId>
+          <odeIdeviceId>idevice-1790450298978-c0yh9n1p6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h5 style="text-align: center;"><strong>Competencia General de la Actividad</strong></h5>
+<p><span style="font-size: 14pt;">Aplicar habilidades de investigación, análisis y resolución de problemas mediante una experiencia gamificada en eXeLearning, utilizando como contexto el Festival Internacional del Globo de León, México, para fortalecer el aprendizaje significativo y las competencias digitales</span></p>
+<p><br /></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/twq2P-3VloQ" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">¿Cómo es el Festival Internacional del Globo en León Guanajuato? | FIG </span></p>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+<ul>
+<li>
+<h6><span style="font-size: 14pt;">Identificar las características principales del Festival Internacional del Globo de León, México, reconociendo su importancia cultural, turística y económica dentro del contexto nacional e internacional.</span></h6>
+</li>
+<li>
+<h6><span style="font-size: 14pt;">Resolver desafíos y acertijos interactivos mediante la búsqueda, interpretación y aplicación de información relacionada con el festival, fortaleciendo habilidades de pensamiento crítico y resolución de problemas.</span></h6>
+</li>
+<li>
+<h6><span style="font-size: 14pt;">Utilizar recursos digitales desarrollados en eXeLearning para participar de manera activa y colaborativa en experiencias de aprendizaje gamificadas, promoviendo el desarrollo de competencias tecnológicas y comunicativas.</span></h6>
+</li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790450298978-c0yh9n1p6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h5 style=\"text-align: center;\"><strong>Competencia General de la Actividad</strong></h5>\n<p><span style=\"font-size: 14pt;\">Aplicar habilidades de investigación, análisis y resolución de problemas mediante una experiencia gamificada en eXeLearning, utilizando como contexto el Festival Internacional del Globo de León, México, para fortalecer el aprendizaje significativo y las competencias digitales</span></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/twq2P-3VloQ\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\">¿Cómo es el Festival Internacional del Globo en León Guanajuato? | FIG </span></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>\n<ul>\n<li>\n<h6><span style=\"font-size: 14pt;\">Identificar las características principales del Festival Internacional del Globo de León, México, reconociendo su importancia cultural, turística y económica dentro del contexto nacional e internacional.</span></h6>\n</li>\n<li>\n<h6><span style=\"font-size: 14pt;\">Resolver desafíos y acertijos interactivos mediante la búsqueda, interpretación y aplicación de información relacionada con el festival, fortaleciendo habilidades de pensamiento crítico y resolución de problemas.</span></h6>\n</li>\n<li>\n<h6><span style=\"font-size: 14pt;\">Utilizar recursos digitales desarrollados en eXeLearning para participar de manera activa y colaborativa en experiencias de aprendizaje gamificadas, promoviendo el desarrollo de competencias tecnológicas y comunicativas.</span></h6>\n</li>\n</ul>\n<p><br /></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muisbcao-l28hnz5ax</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 1. La Misión</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 1. La Misión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 1. La Misión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muisbcao-l28hnz5ax</odePageId>
+      <odeBlockId>block-muisdjax-al8k09lar</odeBlockId>
+      <blockName>¡Alerta en el FIG!</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muisbcao-l28hnz5ax</odePageId>
+          <odeBlockId>block-muisdjax-al8k09lar</odeBlockId>
+          <odeIdeviceId>idevice-1790451132149-gpy7ojgur</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="¡Alerta en el FIG!">¡Alerta en el FIG!</span></dt><dd>00.45</dd></div><div class="inline"><dt><span title="Agrupamient">Agrupamient</span></dt><dd>Estudiantes de tercer año Lic. en Salud Ocupacional</dd></div></dl><h5>Eres un investigador internacional especializado en festivales culturales.</h5>
+<h5>Te encuentras en el Parque Metropolitano de León durante la inauguración del Festival Internacional del Globo. Cuando cientos de globos comienzan a elevarse al amanecer, los organizadores descubren que ha desaparecido el código maestro que activa la ceremonia de clausura.</h5>
+<p>  <img src="{{context_path}}/content/resources/globo-3-importante.png" width="620" height="464" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h5><br /></h5>
+<h5>Sin ese código, el tradicional espectáculo nocturno conocido como "Noche Mágica" no podrá realizarse.</h5>
+<h5>Dispones de 45 minutos para recorrer el festival, resolver los desafíos y recuperar las claves ocultas.</h5>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/globo3.png" width="666" height="442" alt="" /></p>
+<h5>Cada reto superado te entregará una parte del código secreto.</h5>
+<h5><br /></h5>
+<h5><strong>¿Estás listo para despegar?</strong></h5>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/jugadores.png" width="603" height="402" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h5><strong>Objetivo del jugador</strong>: Recuperar las cuatro piezas del código final.</h5></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790451132149-gpy7ojgur","textInfoDurationInput":"00.45","textInfoDurationTextInput":"¡Alerta en el FIG!","textInfoParticipantsInput":"Estudiantes de tercer año Lic. en Salud Ocupacional","textInfoParticipantsTextInput":"Agrupamient","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"¡Alerta en el FIG!\">¡Alerta en el FIG!</span></dt><dd>00.45</dd></div><div class=\"inline\"><dt><span title=\"Agrupamient\">Agrupamient</span></dt><dd>Estudiantes de tercer año Lic. en Salud Ocupacional</dd></div></dl><h5>Eres un investigador internacional especializado en festivales culturales.</h5>\n<h5>Te encuentras en el Parque Metropolitano de León durante la inauguración del Festival Internacional del Globo. Cuando cientos de globos comienzan a elevarse al amanecer, los organizadores descubren que ha desaparecido el código maestro que activa la ceremonia de clausura.</h5>\n<p>  <img src=\"{{context_path}}/content/resources/globo-3-importante.png\" width=\"620\" height=\"464\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<h5><br /></h5>\n<h5>Sin ese código, el tradicional espectáculo nocturno conocido como \"Noche Mágica\" no podrá realizarse.</h5>\n<h5>Dispones de 45 minutos para recorrer el festival, resolver los desafíos y recuperar las claves ocultas.</h5>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/globo3.png\" width=\"666\" height=\"442\" alt=\"\" /></p>\n<h5>Cada reto superado te entregará una parte del código secreto.</h5>\n<h5><br /></h5>\n<h5><strong>¿Estás listo para despegar?</strong></h5>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/jugadores.png\" width=\"603\" height=\"402\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<h5><strong>Objetivo del jugador</strong>: Recuperar las cuatro piezas del código final.</h5></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muitgx54-k7dma089q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 2. ¿Qué es el Festival Internacional del Globo?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 2. ¿Qué es el Festival Internacional del Globo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 2. ¿Qué es el Festival Internacional del Globo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muitgx54-k7dma089q</odePageId>
+      <odeBlockId>block-muitjw8u-3ou579iwk</odeBlockId>
+      <blockName>Historia</blockName>
+      <iconName>mi-bookmark_stacks</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muitgx54-k7dma089q</odePageId>
+          <odeBlockId>block-muitjw8u-3ou579iwk</odeBlockId>
+          <odeIdeviceId>idevice-1790453108475-720h29nm3</odeIdeviceId>
+          <odeIdeviceTypeName>padlock</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="candado-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1790453108475-720h29nm3" data-evaluationb="true" data-evaluationid="12345"></div><div class="candado-version js-hidden">1</div><div class="candado-instructions js-hidden"><h5>El Festival Internacional del Globo (FIG) se realiza cada año en León, Guanajuato, México.</h5>
+<h5>Nació en el año 2002.<br />Su primera edición contó con 25 globos aerostáticos.<br />Actualmente participan más de 200 globos provenientes de más de 25 países.<br />Se desarrolla en el Parque Metropolitano de León.<br />Es considerado el evento aerostático más importante de Latinoamérica y uno de los más relevantes del mundo.</h5>
+<h5><br /></h5>
+<h5><img src="{{context_path}}/content/resources/concepto-clave-3.png" width="462" height="242" alt="" style="float: left;" /></h5>
+<p><br /></p>
+<p><br /></p>
+<p>    <a class="ytmVideoInfoVideoTitle" aria-level="2" href="https://www.youtube.com/watch?v=JsuZGgu9BGM"><span class="ytAttributedStringHost ytmVideoInfoLink ytAttributedStringWhiteSpaceNoWrap"><iframe width="560" height="314" src="https://www.youtube.com/embed/JsuZGgu9BGM" allowfullscreen="allowfullscreen"></iframe></span></a></p>
+<p>                                                                                                                                <span style="font-size: 18pt;">¿Vale la pena ir al FESTIVAL del GLOBO en LEÓN?</span></p>
+<p><br /></p></div><div class="candado-retro js-hidden"><p>La primera edición del FIG reunió exactamente <strong>25 globos aerostáticos.</strong></p>
+<p>Recuerda este número. Podría ayudarte más adelante.</p></div><div class="candado-DataGame js-hidden">%E9%B0%F1%F3%FC%F6%F3%F6%FD%C6%FB%FF%F7%B0%A8%A3%A2%BE%B0%F1%F3%FC%F6%F3%F6%FD%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%A3%A0%A1%A6%A7%A4%B0%BE%B0%F1%F3%FC%F6%F3%F6%FD%DB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%B0%BE%B0%F1%F3%FC%F6%F3%F6%FD%C0%F7%E6%E0%FD%B0%A8%B0%B0%BE%B0%F1%F3%FC%F6%F3%F6%FD%C1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%F3%FC%F6%F3%F6%FD%C0%F7%F0%FD%FD%E6%B0%A8%E6%E0%E7%F7%BE%B0%F1%F3%FC%F6%F3%F6%FD%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%A2%B0%BE%B0%F1%F3%FC%F6%F3%F6%FD%D7%E0%E0%FD%E0%DF%F7%E1%E1%F3%F5%F7%B0%A8%B0%B0%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A3%A0%A1%A6%A7%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A2%A6%A7%A1%A3%A2%AA%A6%A5%A7%BF%A5%A0%A2%FA%A0%AB%FC%FF%A1%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%DD%F9%B0%A8%B0%D3%F1%F7%E2%E6%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%DB%FC%E1%E6%E0%E7%F1%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D4%F7%F7%F6%F0%F3%F1%F9%B0%A8%B0%C0%F7%E6%E0%FD%F3%FE%FB%FF%F7%FC%E6%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%C1%FA%FD%E5%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%F3%FC%F6%F3%F6%FD%B0%EF%EF</div><div class="candado-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muiuzsrv-6lxfqypxo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 3. Reto 1.  El origen del festival</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 3. Reto 1.  El origen del festival</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 3. Reto 1.  El origen del festival</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página 3. Reto 1.  El origen del festival</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muiuzsrv-6lxfqypxo</odePageId>
+      <odeBlockId>block-muivhwv1-udi457gcg</odeBlockId>
+      <blockName>El Origen del FIG.</blockName>
+      <iconName>mi-business_messages</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muiuzsrv-6lxfqypxo</odePageId>
+          <odeBlockId>block-muivhwv1-udi457gcg</odeBlockId>
+          <odeIdeviceId>idevice-1790456375196-vsf8g3v5z</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1790456375196-vsf8g3v5z" data-evaluationb="false" data-evaluationid="8fee63a4-1aee-4e27-a90c-1d718b67fd92"></div>
+            <div id="frmMainContainer-idevice-1790456375196-vsf8g3v5z" class="form-IDevice" data-id="idevice-1790456375196-vsf8g3v5z">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p><br /></p>
+<p>Has encontrado un viejo diario del fundador del festival. Dentro hay una pregunta que desbloquea la primera pista.</p>
+<p>Responde a las preguntas del cuestionario</p>
+<p><br /></p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1790456375196-vsf8g3v5z">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1790456375196-vsf8g3v5z" style="display:none;">
+                      <button  id="frmStartGame-idevice-1790456375196-vsf8g3v5z" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1790456375196-vsf8g3v5z" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1790456375196-vsf8g3v5z" > </div>
+                        <div id="frmCover-idevice-1790456375196-vsf8g3v5z" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1790456375196-vsf8g3v5z" class="form-results-container inline">
+                        <div id="form-score-idevice-1790456375196-vsf8g3v5z" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1790456375196-vsf8g3v5z" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1790456375196-vsf8g3v5z" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1790456375196-vsf8g3v5z" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1790456375196-vsf8g3v5z" type="button" value="Reiniciar"
+                            data-id="idevice-1790456375196-vsf8g3v5z" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1790456375196-vsf8g3v5z" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1790456375196-vsf8g3v5z" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"><div class="Games-GetScore d-flex align-items-center justify-content-center w-100 mt-3"><span class="Games-RepeatActivity"></span></div></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790456375196-vsf8g3v5z","evaluation":false,"evaluationID":"8fee63a4-1aee-4e27-a90c-1d718b67fd92","repeatActivity":true,"isScorm":1,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"verdadero","msgSuggestion":"siguiente","msgOk":"verdadero.","msgKO":"correcto","msgHide":"Ocultar"},"id":"idevice-1790456375196-vsf8g3v5z","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p><br /></p>\n<p>Has encontrado un viejo diario del fundador del festival. Dentro hay una pregunta que desbloquea la primera pista.</p>\n<p>Responde a las preguntas del cuestionario</p>\n<p><br /></p>","questionsData":[{"id":"1790456581165-6F0X9","activityType":"selection","baseText":"<p>¿En qué año nació oficialmente el Festival Internacional del Globo de León?</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"b) 2002","wrongAnswersValue":"","selectionType":"single","answers":[[false,"a)  1995"],[true,"b) 2002"],[false,"c) 2010"],[false,"d)  2015"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muivn0p1-u7u2ase9t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 4. Reto 2.   La Torre de Control del FIG.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 4. Reto 2.   La Torre de Control del FIG.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 4. Reto 2.   La Torre de Control del FIG.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página 4. Reto 2.   La Torre de Control del FIG.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muivn0p1-u7u2ase9t</odePageId>
+      <odeBlockId>block-muivoq3f-2qgountlr</odeBlockId>
+      <blockName>Verdadero o falso</blockName>
+      <iconName>mi-user_attributes</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muivn0p1-u7u2ase9t</odePageId>
+          <odeBlockId>block-muivoq3f-2qgountlr</odeBlockId>
+          <odeIdeviceId>idevice-1790456693018-ke69x9dip</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1790456693018-ke69x9dip" data-evaluationb="false" data-evaluationid="8fee63a4-1aee-4e27-a90c-1d718b67fd92"></div>
+        <div class="TOFP-instructions"><p><span style="font-size: 18pt;">Llegas al Centro de Control de Vuelo.</span></p>
+<p><span style="font-size: 18pt;">Después de resolver el primer desafío, recibes un mensaje de emergencia desde la Torre de Control Aerostática.</span></p>
+<p><span style="font-size: 18pt;">Los organizadores te explican que el sistema de navegación del Festival Internacional del Globo ha sido bloqueado por un misterioso hacker conocido como"El Guardián del Viento".</span></p>
+<p><span style="font-size: 18pt;">Para recuperar la segunda parte del código, deberás verificar si la información almacenada en el sistema es verdadera o falsa.</span></p>
+<p><span style="font-size: 18pt;">Cada respuesta correcta restaurará parte de la base de datos del festival.</span></p>
+<p><span style="font-size: 18pt;">Para acceder debes identificar cuál afirmación es correcta.</span></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1790456693018-ke69x9dip" id="tofPMainContainer-idevice-1790456693018-ke69x9dip">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1790456693018-ke69x9dip">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1790456693018-ke69x9dip" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1790456693018-ke69x9dip">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1790456693018-ke69x9dip"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1790456693018-ke69x9dip">
+                    <button  id="tofPStartGame-idevice-1790456693018-ke69x9dip" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1790456693018-ke69x9dip">
+                </div>
+                <div class="TOFP-CheckTestDiv " id="tofPCheckTestDiv-idevice-1790456693018-ke69x9dip">
+                    <button id="tofPCheckTest-idevice-1790456693018-ke69x9dip" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1790456693018-ke69x9dip" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        </div>
+        <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"><div class="Games-GetScore d-flex align-items-center justify-content-center w-100 mt-3"><span class="Games-RepeatActivity"></span></div></div>
+        <div class="TOFP-After"><p><span style="font-size: 18pt;">Pista obtenida</span></p>
+<p><span style="font-size: 18pt;">Segunda pieza del código: <strong>L</strong></span></p>
+<p><span style="font-size: 18pt;">(L por León)</span></p></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1790456693018-ke69x9dip","typeGame":"TrueOrFalse","eXeGameInstructions":"<p><span style=\"font-size: 18pt;\">Llegas al Centro de Control de Vuelo.</span></p>\n<p><span style=\"font-size: 18pt;\">Después de resolver el primer desafío, recibes un mensaje de emergencia desde la Torre de Control Aerostática.</span></p>\n<p><span style=\"font-size: 18pt;\">Los organizadores te explican que el sistema de navegación del Festival Internacional del Globo ha sido bloqueado por un misterioso hacker conocido como\"El Guardián del Viento\".</span></p>\n<p><span style=\"font-size: 18pt;\">Para recuperar la segunda parte del código, deberás verificar si la información almacenada en el sistema es verdadera o falsa.</span></p>\n<p><span style=\"font-size: 18pt;\">Cada respuesta correcta restaurará parte de la base de datos del festival.</span></p>\n<p><span style=\"font-size: 18pt;\">Para acceder debes identificar cuál afirmación es correcta.</span></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","eXeIdeviceTextAfter":"<p><span style=\"font-size: 18pt;\">Pista obtenida</span></p>\n<p><span style=\"font-size: 18pt;\">Segunda pieza del código: <strong>L</strong></span></p>\n<p><span style=\"font-size: 18pt;\">(L por León)</span></p>","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior","textButtonScorm":"Guardar la puntuación"},"questionsRandom":false,"percentageQuestions":100,"isTest":true,"time":0,"attemptsNumber":1,"questionsGame":[{"question":"<p><br /></p>\n<p>El Festival Internacional del Globo se celebra en la ciudad mexicana de Cancú</p>","feedback":"<p>El festival se realiza en León, Guanajuato, dentro del Parque Metropolitano</p>","suggestion":"<p><br /></p>\n<p>La primera edición del Festival Internacional del Globo reunió 25 globos aerostáticos.</p>\n<p>Conteste las preguntas del cuestionario</p>","solution":0},{"question":"<p>El FIG es considerado uno de los eventos aerostáticos más importantes de Latinoamérica.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Actualmente participan más de 200 globos procedentes de numerosos países del mundo.</p>","feedback":"","suggestion":"","solution":1}],"isScorm":1,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"8fee63a4-1aee-4e27-a90c-1d718b67fd92","showSlider":true,"ideviceId":"idevice-1790456693018-ke69x9dip"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muix4bua-c99fs54ms</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 5. Reto 3.Empareje</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 5. Reto 3.Empareje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 5. Reto 3.Empareje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página 5. Reto 3.Empareje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muix4bua-c99fs54ms</odePageId>
+      <odeBlockId>block-muk8gi70-6niikxh3b</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-balance</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muix4bua-c99fs54ms</odePageId>
+      <odeBlockId>block-mulcmapa-5wio3h0li</odeBlockId>
+      <blockName>Emparejamiento</blockName>
+      <iconName>mi-arrows_outward</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muix4bua-c99fs54ms</odePageId>
+          <odeBlockId>block-mulcmapa-5wio3h0li</odeBlockId>
+          <odeIdeviceId>idevice-1790606065581-apy3qdvil</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"El%20a%C3%B1o%202002","urlBk":"{{context_path}}/content/resources/globo-4.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"La%20primera%20edici%C3%B3n%20del%20Festival%20del%20Globo"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"el%20n%C3%BAmero%3A%202","urlBk":"{{context_path}}/content/resources/jugadores.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Es%20el%20primer%20c%C3%B3digo%20obtenido%20en%20este%20escape%20roo.m."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Metropolitano","urlBk":"{{context_path}}/content/resources/familia-entera-disfruta.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"El%20parque%20en%20que%20se%20desarrolla%20el%20Festival%20del%20Globo%20en%20M%C3%A9xico%2C%20se%20llama%3A"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Le%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Ciudad%20de%20M%C3%A9xico%20en%20donde%20se%20realiza%20el%20Festival%20Internacional%20del%20Globo."},{"url":"{{context_path}}/content/resources/calzado.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"del%20calzado","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Le%C3%B3n%20es%20conocida%20como%20la%20capital%20%3A"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"8fee63a4-1aee-4e27-a90c-1d718b67fd92","id":"idevice-1790606065581-apy3qdvil","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1790606065581-apy3qdvil" data-evaluationb="false" data-evaluationid="8fee63a4-1aee-4e27-a90c-1d718b67fd92"></div><a href="{{context_path}}/content/resources/globo-4.png" class="js-hidden relaciona-LinkImagesBack">0</a><a href="{{context_path}}/content/resources/jugadores.png" class="js-hidden relaciona-LinkImagesBack">1</a><a href="{{context_path}}/content/resources/familia-entera-disfruta.png" class="js-hidden relaciona-LinkImagesBack">2</a><a href="{{context_path}}/content/resources/calzado.png" class="js-hidden relaciona-LinkImages">4</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muix4bua-c99fs54ms</odePageId>
+      <odeBlockId>block-mum0y1dv-sq0o8bcod</odeBlockId>
+      <blockName>25</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muldcc08-6hnjx5tz6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 6. Reto 4. Ordene la Historia</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 6. Reto 4. Ordene la Historia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 6. Reto 4. Ordene la Historia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muldcc08-6hnjx5tz6</odePageId>
+      <odeBlockId>block-muldfbi5-1t3aqemo4</odeBlockId>
+      <blockName>Lista desordenada</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muldcc08-6hnjx5tz6</odePageId>
+          <odeBlockId>block-muldfbi5-1t3aqemo4</odeBlockId>
+          <odeIdeviceId>idevice-1790607419644-hi5kekk6t</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1790607419644-hi5kekk6t" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1790607419644-hi5kekk6t" data-evaluationb="true" data-evaluationid="cuarto código: F"></div>
+    <div class="exe-sortableList-instructions"><p>Ordena los siguientes textos correctamente para completar la actividad.</p></div>
+    <ul class="exe-sortableList-list"><li data-orig-index="0">Nace el FIG con 25 globos.</li><li data-orig-index="1">Participan pilotos internacionales.</li><li data-orig-index="2">El festival supera los 200 globos.</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">Perfecto. Has reconstruido la evolución histórica del festival</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"><div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"><div class="Games-GetScore d-flex align-items-center justify-content-center w-100 mt-3"><span class="Games-RepeatActivity"></span></div></div></div>
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>Ordena los siguientes textos correctamente para completar la actividad.</p>","textAfter":"","afterElement":"","options":["Nace el FIG con 25 globos.","Participan pilotos internacionales.","El festival supera los 200 globos."],"time":0,"buttonText":"Comprobar","rightText":"Perfecto. Has reconstruido la evolución histórica del festival","wrongText":"No es correcto... La respuesta correcta es:","isScorm":1,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":true,"evaluationID":"cuarto código: F","main":"slidevice-1790607419644-hi5kekk6t","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1790607419644-hi5kekk6t"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muldwd83-gocnmxas4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 7. Candado final</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 7. Candado final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 7. Candado final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muldwd83-gocnmxas4</odePageId>
+      <odeBlockId>block-mulf9zol-iqldvpn2v</odeBlockId>
+      <blockName>Cuestionario adaptativo</blockName>
+      <iconName>mi-aod_tablet</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muldwd83-gocnmxas4</odePageId>
+          <odeBlockId>block-mulf9zol-iqldvpn2v</odeBlockId>
+          <odeIdeviceId>idevice-1790610530275-8adecho97</odeIdeviceId>
+          <odeIdeviceTypeName>adaptative-quiz</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-adaptative-quiz-template">
+    
+            <div class="game-evaluation-ids js-hidden" data-id="idevice-1790610530275-8adecho97" data-evaluationb="true" data-evaluationid="1,2,3,4,5"></div>
+            <div id="adaptativeQuizRoot-idevice-1790610530275-8adecho97" class="adaptative-quiz-IDevice" data-id="idevice-1790610530275-8adecho97">
+                <div class="adaptative-quiz-instructions"><p><span style="font-size: 18pt;">Durante los desafíos obtuviste cuatro pistas:</span></p>
+<p><br /></p>
+<p><span style="font-size: 14pt;">Elige la respuesta correcta para cada pregunta.</span></p>
+<p><span style="font-size: 14pt;">Para subir al siguiente nivel debes responder correctamente dos preguntas seguidas.</span></p>
+<p><span style="font-size: 14pt;">Si fallas dos seguidas, bajarás al nivel anterior.</span></p></div>
+                
+            <div class="ADAPTATIVEQUIZ-MainContainer" id="adaptativeQuizMainContainer-idevice-1790610530275-8adecho97" style="display:none">
+                <div class="ADAPTATIVEQUIZ-GameContainer" id="adaptativeQuizGameContainer-idevice-1790610530275-8adecho97">
+                    <div class="ADAPTATIVEQUIZ-ScoreBoard" id="adaptativeQuizScoreBoard-idevice-1790610530275-8adecho97">
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Pregunta: <strong id="adaptativeQuizRound-idevice-1790610530275-8adecho97">0 / 0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Nivel: <strong class="ADAPTATIVEQUIZ-LevelValue" id="adaptativeQuizLevel-idevice-1790610530275-8adecho97">—</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Aciertos: <strong id="adaptativeQuizHits-idevice-1790610530275-8adecho97">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Errores: <strong id="adaptativeQuizErrors-idevice-1790610530275-8adecho97">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Puntuación: <strong id="adaptativeQuizScore-idevice-1790610530275-8adecho97">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel ADAPTATIVEQUIZ-TimeBox" id="adaptativeQuizTimeBox-idevice-1790610530275-8adecho97" style="display:none">
+                            <strong><span class="sr-av">Hora:</span></strong>
+                            <span id="adaptativeQuizTime-idevice-1790610530275-8adecho97" class="ADAPTATIVEQUIZ-Time">00:00</span>
+                        </span>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-ShowClue" id="adaptativeQuizShowClue-idevice-1790610530275-8adecho97" style="display:none" aria-live="polite">
+                        <span class="sr-av">Información:</span>
+                        <p class="ADAPTATIVEQUIZ-ShowClueText" id="adaptativeQuizShowClueText-idevice-1790610530275-8adecho97"></p>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-StartGameDiv" id="adaptativeQuizStartGameDiv-idevice-1790610530275-8adecho97" style="display:none">
+                        <p class="ADAPTATIVEQUIZ-Ready">¿Preparado?</p>
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnStart" id="adaptativeQuizBtnStart-idevice-1790610530275-8adecho97">Inicio</button>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-QuestionContainer" id="adaptativeQuizQuestionContainer-idevice-1790610530275-8adecho97"></div>
+                    <div class="ADAPTATIVEQUIZ-ButtonsContainer" id="adaptativeQuizButtonsContainer-idevice-1790610530275-8adecho97">
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnCheck" id="adaptativeQuizBtnCheck-idevice-1790610530275-8adecho97">Comprobar</button>
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnNewGame" id="adaptativeQuizBtnNewGame-idevice-1790610530275-8adecho97" style="display:none">Jugar otra vez</button>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-Report" id="adaptativeQuizReport-idevice-1790610530275-8adecho97" style="display:none" aria-live="polite"></div>
+                    <div class="ADAPTATIVEQUIZ-Cubierta" id="adaptativeQuizCubierta-idevice-1790610530275-8adecho97" style="display:none">
+                        <div class="ADAPTATIVEQUIZ-CodeAccessDiv" id="adaptativeQuizCodeAccessDiv-idevice-1790610530275-8adecho97" style="display:none">
+                            <div class="ADAPTATIVEQUIZ-MessageCodeAccess" id="adaptativeQuizMessageCodeAccess-idevice-1790610530275-8adecho97"></div>
+                            <div class="ADAPTATIVEQUIZ-DataCodeAccessE">
+                                <label class="sr-av" for="adaptativeQuizCodeAccessInput-idevice-1790610530275-8adecho97">Access code:</label>
+                                <input type="text" class="ADAPTATIVEQUIZ-CodeAccessInput form-control" id="adaptativeQuizCodeAccessInput-idevice-1790610530275-8adecho97" placeholder="Access code" />
+                                <a href="#" id="adaptativeQuizCodeAccessButton-idevice-1790610530275-8adecho97" title="Submit">
+                                    <strong class="sr-av">Submit</strong>
+                                    <img class="ADAPTATIVEQUIZ-IconSubmit" alt="" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+        
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1790610530275-8adecho97","ideviceId":"idevice-1790610530275-8adecho97","typeGame":"Adaptative Quiz","version":2,"eXeFormInstructions":"<p><span style=\"font-size: 18pt;\">Durante los desafíos obtuviste cuatro pistas:</span></p>\n<p><br /></p>\n<p><span style=\"font-size: 14pt;\">Elige la respuesta correcta para cada pregunta.</span></p>\n<p><span style=\"font-size: 14pt;\">Para subir al siguiente nivel debes responder correctamente dos preguntas seguidas.</span></p>\n<p><span style=\"font-size: 14pt;\">Si fallas dos seguidas, bajarás al nivel anterior.</span></p>","eXeIdeviceTextAfter":"","questionsGame":[{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugador-de-er.png","author":"Lydwina Villarreal","alt":"Escape Room.","audio":"","question":"¿Cuál es la pista o código encontrado en el Reto1?","numberOptions":4,"options":[{"text":"25","audio":""},{"text":"F","audio":""},{"text":"2","audio":""},{"text":"L","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":1,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/familia-entera-disfruta.png","author":"","alt":"","audio":"","question":"¿Cuál es la pista o código encontrado en el Reto 2?","numberOptions":4,"options":[{"text":"L","audio":""},{"text":"2","audio":""},{"text":"F","audio":""},{"text":"25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[0],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":1,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/globos-2.png","author":"Lydwina Villarreal","alt":"Escape Room","audio":"","question":"¿Cuál es la pista o código encontrado en el Reto 3?","numberOptions":4,"options":[{"text":"F","audio":""},{"text":"L","audio":""},{"text":"2","audio":""},{"text":"25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[3],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":2,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugador-3.png","author":"Lydwina Villarreal","alt":"Escape Room","audio":"","question":"¿Cuál es la pista o código encontrado en el Reto 4?","numberOptions":4,"options":[{"text":"25","audio":""},{"text":"F","audio":""},{"text":"L","audio":""},{"text":"2","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[1],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":2,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugador-de-er.png","author":"Lydwina Villarreal","alt":"Escape Room","audio":"","question":"¿Cuál es la pista o código maestro encontrado en el Reto 5?","numberOptions":4,"options":[{"text":"25, F, 2, L","audio":""},{"text":"F, 2, L, 25","audio":""},{"text":"2, L, 25, F","audio":""},{"text":"L, 2, F, 25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":2,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugador-de-er.png","author":"Lydwina Villarreal","alt":"Escape Room","audio":"","question":"¿Cuál es la pista o código encontrado en el Reto1?","numberOptions":4,"options":[{"text":"L","audio":""},{"text":"F","audio":""},{"text":"2","audio":""},{"text":"25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/globos-2.png","author":"","alt":"","audio":"","question":"¿Cuál es la pista o código encontrada en el Reto 2?","numberOptions":4,"options":[{"text":"L","audio":""},{"text":"2","audio":""},{"text":"f","audio":""},{"text":"25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[0],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugadores.png","author":"","alt":"","audio":"","question":"¿Cuál es la pista o código encontrada en el Reto 3?","numberOptions":4,"options":[{"text":"F","audio":""},{"text":"L","audio":""},{"text":"2","audio":""},{"text":"25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[3],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/viajando-en-globo.png","author":"","alt":"","audio":"","question":"¿Cuál es la pista o código encontrada en el Reto 4?","numberOptions":4,"options":[{"text":"25","audio":""},{"text":"L","audio":""},{"text":"F","audio":""},{"text":"2","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":1,"typeSelect":0,"url":"{{context_path}}/content/resources/jugador-3.png","author":"Lydwina Villarreal","alt":"Escape Room.","audio":"","question":"¿Cuál es la pista o código maestro encontrada en el Reto 5?","numberOptions":4,"options":[{"text":"25, F, 2, L","audio":""},{"text":"F, 2, L, 25","audio":""},{"text":"2, L, 25, F","audio":""},{"text":"L, 2, F, 25","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""}],"numRound":5,"time":0,"shuffle":true,"caseSensitive":false,"accentSensitive":false,"showSolution":true,"timeShowSolution":9,"customMessages":false,"numLevels":3,"initialLevel":3,"levelNames":["Fácil","Medio","Difícil"],"minQuestionsShown":5,"evaluation":true,"evaluationID":"1,2,3,4,5","itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"msgs":{"msgReady":"¿Preparado?","msgStartGame":"Pulsa aquí para jugar","msgCheck":"Comprobar","msgSelectOption":"Haz clic en una opción para elegir tu respuesta.","msgNext":"Siguiente pregunta","msgPlayAgain":"Jugar otra vez","msgHits":"Aciertos","msgErrors":"Errores","msgScore":"Puntuación","msgLevel":"Nivel","msgMaxLevel":"Nivel más alto alcanzado","msgAnswered":"Contestadas","msgGameOver":"¡Fin de la partida!","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgQuestion":"Pregunta","msgDifficulty":"Dificultad","msgLevelEasy":"Fácil","msgLevelMedium":"Medio","msgLevelHard":"Difícil","msgLevelExpert":"Experto","msgLevelMaster":"Maestro","msgLevelUp":"¡Subes de nivel!","msgLevelDown":"Bajas de nivel","msgReportTitle":"Informe final","msgReportHigh":"Excelente. Dominas los contenidos de mayor nivel.","msgReportMedium":"Bien hecho. Has alcanzado el nivel intermedio.","msgReportLow":"Necesitas un poco más de práctica. Repasa los contenidos básicos.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Cuestionario adaptativo","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgPlayAudio":"Reproducir audio","msgPauseAudio":"Pausar audio","msgImageAlt":"Ilustración","msgTime":"Hora","msgStart":"Inicio","msgTimeUp":"¡Se acabó el tiempo!"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mulxlkoa-4xvglsyc1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 8. Lo lograste</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 8. Lo lograste</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 8. Lo lograste</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mulxlkoa-4xvglsyc1</odePageId>
+      <odeBlockId>block-mulxojcl-7nzbr0wa5</odeBlockId>
+      <blockName>!Muy bien!</blockName>
+      <iconName>mi-volume_up</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mulxlkoa-4xvglsyc1</odePageId>
+          <odeBlockId>block-mulxojcl-7nzbr0wa5</odeBlockId>
+          <odeIdeviceId>idevice-1790641442036-uqjjz7vix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"> Misión Cumplida: <strong>El Cielo de León Vuelve a Brillar</strong></span><br /><br /><br /><span style="font-size: 18pt;">Cuando introduces correctamente el código final, una alarma cesa inmediatamente en la Torre de Control Aerostática.</span></p>
+<p><span style="font-size: 18pt;">Las luces del centro de mando vuelven a encenderse y, poco a poco, los enormes globos aerostáticos comienzan a iluminar el cielo de León.</span></p>
+<p><span style="font-size: 18pt;">Miles de visitantes observan expectantes mientras el espectáculo de la Noche Mágica inicia sin contratiempos.</span></p>
+<p><span style="font-size: 18pt;">El misterioso<strong> "Guardián del Viento"</strong> deja un último mensaje en las pantallas del sistema:</span></p>
+<p style="text-align: center;"><em><span style="font-size: 18pt;">"Has demostrado que el conocimiento es tan poderoso como el viento que impulsa a los globos. Cada pista encontrada, cada desafío superado y cada decisión tomada te permitieron recuperar la memoria de uno de los festivales culturales más importantes de México."</span></em><br /><span style="font-size: 18pt;">Gracias a tu trabajo, la ceremonia de clausura puede realizarse y el Festival Internacional del Globo continúa compartiendo su magia con visitantes de todo el mundo.</span></p>
+<p><span style="font-size: 18pt;"> </span><br /><span style="font-size: 18pt;">🏆 Lo que aprendiste durante la misión</span><br /><span style="font-size: 18pt;">Durante esta aventura descubriste que:</span></p>
+<p><span style="font-size: 18pt;">✅ El Festival Internacional del Globo nació en 2002 con la participación de 25 globos aerostáticos. [vivefig.mx], [oem.com.mx]</span></p>
+<p><span style="font-size: 18pt;">✅ Se celebra anualmente en la ciudad de León, Guanajuato, dentro del Parque Metropolitano. [leonguanajuato.com]</span></p>
+<p><span style="font-size: 18pt;">✅ Actualmente reúne más de 200 globos y participantes de numerosos países, convirtiéndose en uno de los eventos aerostáticos más importantes de Latinoamérica. [leonguanajuato.com], [gob.mx]</span></p>
+<p><span style="font-size: 18pt;">✅ Su impacto trasciende el turismo, ya que promueve la identidad cultural, la convivencia social y la proyección internacional de México</span></p>
+<p><span style="font-size: 18pt;">  <img src="{{context_path}}/content/resources/globo-3-importante.png" width="655" height="490" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;">Has logrado restaurar el sistema del Festival Internacional del Globo y la ceremonia de clausura podrá realizarse.</span></p>
+<p><span style="font-size: 18pt;">Los globos iluminan nuevamente el cielo de León mientras miles de visitantes celebran tu éxito.</span></p>
+<p><span style="font-size: 18pt;"><strong>Dato curioso</strong></span></p>
+<p><span style="font-size: 18pt;">En sus inicios, el festival comenzó con apenas 25 globos aerostáticos, y con el paso de los años se transformó en uno de los eventos de aerostación más importantes de Latinoamérica, atrayendo participantes de numerosos países. [vivefig.mx], [gob.mx]</span></p>
+<p><span style="font-size: 18pt;"><strong>Mensaje final</strong></span></p>
+<p><span style="font-size: 18pt;">"A veces los mayores aprendizajes se encuentran cuando nos atrevemos a elevarnos más allá de nuestros propios límites."</span></p>
+<p><span style="font-size: 18pt;"> </span></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790641442036-uqjjz7vix","textInfoDurationInput":"","textInfoDurationTextInput":"Misión Cumplida","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"> Misión Cumplida: <strong>El Cielo de León Vuelve a Brillar</strong></span><br /><br /><br /><span style=\"font-size: 18pt;\">Cuando introduces correctamente el código final, una alarma cesa inmediatamente en la Torre de Control Aerostática.</span></p>\n<p><span style=\"font-size: 18pt;\">Las luces del centro de mando vuelven a encenderse y, poco a poco, los enormes globos aerostáticos comienzan a iluminar el cielo de León.</span></p>\n<p><span style=\"font-size: 18pt;\">Miles de visitantes observan expectantes mientras el espectáculo de la Noche Mágica inicia sin contratiempos.</span></p>\n<p><span style=\"font-size: 18pt;\">El misterioso<strong> \"Guardián del Viento\"</strong> deja un último mensaje en las pantallas del sistema:</span></p>\n<p style=\"text-align: center;\"><em><span style=\"font-size: 18pt;\">\"Has demostrado que el conocimiento es tan poderoso como el viento que impulsa a los globos. Cada pista encontrada, cada desafío superado y cada decisión tomada te permitieron recuperar la memoria de uno de los festivales culturales más importantes de México.\"</span></em><br /><span style=\"font-size: 18pt;\">Gracias a tu trabajo, la ceremonia de clausura puede realizarse y el Festival Internacional del Globo continúa compartiendo su magia con visitantes de todo el mundo.</span></p>\n<p><span style=\"font-size: 18pt;\"> </span><br /><span style=\"font-size: 18pt;\">🏆 Lo que aprendiste durante la misión</span><br /><span style=\"font-size: 18pt;\">Durante esta aventura descubriste que:</span></p>\n<p><span style=\"font-size: 18pt;\">✅ El Festival Internacional del Globo nació en 2002 con la participación de 25 globos aerostáticos. [vivefig.mx], [oem.com.mx]</span></p>\n<p><span style=\"font-size: 18pt;\">✅ Se celebra anualmente en la ciudad de León, Guanajuato, dentro del Parque Metropolitano. [leonguanajuato.com]</span></p>\n<p><span style=\"font-size: 18pt;\">✅ Actualmente reúne más de 200 globos y participantes de numerosos países, convirtiéndose en uno de los eventos aerostáticos más importantes de Latinoamérica. [leonguanajuato.com], [gob.mx]</span></p>\n<p><span style=\"font-size: 18pt;\">✅ Su impacto trasciende el turismo, ya que promueve la identidad cultural, la convivencia social y la proyección internacional de México</span></p>\n<p><span style=\"font-size: 18pt;\">  <img src=\"{{context_path}}/content/resources/globo-3-importante.png\" width=\"655\" height=\"490\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\">Has logrado restaurar el sistema del Festival Internacional del Globo y la ceremonia de clausura podrá realizarse.</span></p>\n<p><span style=\"font-size: 18pt;\">Los globos iluminan nuevamente el cielo de León mientras miles de visitantes celebran tu éxito.</span></p>\n<p><span style=\"font-size: 18pt;\"><strong>Dato curioso</strong></span></p>\n<p><span style=\"font-size: 18pt;\">En sus inicios, el festival comenzó con apenas 25 globos aerostáticos, y con el paso de los años se transformó en uno de los eventos de aerostación más importantes de Latinoamérica, atrayendo participantes de numerosos países. [vivefig.mx], [gob.mx]</span></p>\n<p><span style=\"font-size: 18pt;\"><strong>Mensaje final</strong></span></p>\n<p><span style=\"font-size: 18pt;\">\"A veces los mayores aprendizajes se encuentran cuando nos atrevemos a elevarnos más allá de nuestros propios límites.\"</span></p>\n<p><span style=\"font-size: 18pt;\"> </span></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muoaydkw-v68ccii68</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página 9. Conclusión</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 9. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página 9. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página 9. Conclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muoaydkw-v68ccii68</odePageId>
+      <odeBlockId>block-muoc2u3l-2s9fbqjke</odeBlockId>
+      <blockName>Reflexión final</blockName>
+      <iconName>mi-wb_sunny</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muoaydkw-v68ccii68</odePageId>
+          <odeBlockId>block-muoc2u3l-2s9fbqjke</odeBlockId>
+          <odeIdeviceId>idevice-1790786556128-7hz87x04v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-size: 18pt;">Más allá de resolver acertijos y descifrar códigos, esta misión te permitió comprender cómo un evento cultural puede transformarse en un símbolo de identidad, innovación y desarrollo turístico.</span></p>
+<p><span style="font-size: 18pt;">El Festival Internacional del Globo no es solamente un espectáculo visual. Es una muestra de cómo una idea que comenzó con 25 globos logró convertirse en un evento de reconocimiento internacional que reúne culturas, tradiciones, tecnología y experiencias compartidas.</span></p>
+<p><span style="font-size: 18pt;">Al igual que los globos aerostáticos que se elevan sobre León, el conocimiento adquirido durante esta experiencia te permite ampliar tu perspectiva y descubrir nuevas formas de comprender el valor del patrimonio cultural.</span></p>
+<p><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/viajando-en-globo.png" width="1440" height="1800" alt="" /></span></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790786556128-7hz87x04v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-size: 18pt;\">Más allá de resolver acertijos y descifrar códigos, esta misión te permitió comprender cómo un evento cultural puede transformarse en un símbolo de identidad, innovación y desarrollo turístico.</span></p>\n<p><span style=\"font-size: 18pt;\">El Festival Internacional del Globo no es solamente un espectáculo visual. Es una muestra de cómo una idea que comenzó con 25 globos logró convertirse en un evento de reconocimiento internacional que reúne culturas, tradiciones, tecnología y experiencias compartidas.</span></p>\n<p><span style=\"font-size: 18pt;\">Al igual que los globos aerostáticos que se elevan sobre León, el conocimiento adquirido durante esta experiencia te permite ampliar tu perspectiva y descubrir nuevas formas de comprender el valor del patrimonio cultural.</span></p>\n<p><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/viajando-en-globo.png\" width=\"1440\" height=\"1800\" alt=\"\" /></span></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
